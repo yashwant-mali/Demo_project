@@ -9,6 +9,9 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		//its written by yashwantmali
+		
+		//checking push and pull
+		
 	}
 
 }
